@@ -9,7 +9,4 @@ A modern, responsive portfolio website built to showcase my projects, technical 
 - ⚡ Optimized for performance, SEO & accessibility
 - 📬 Contact form / social integration
 
-## 🚀 Live Demo
-🔗 [[Your Portfolio URL]](https://the-s-sami1317.github.io/My-Website/)
-
 💡 Open to collaborations, freelance work, and new opportunities. Feel free to reach out!
