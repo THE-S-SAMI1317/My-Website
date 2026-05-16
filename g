@@ -292,13 +292,13 @@
                         </a>
                     </div>
                     <div class="flex gap-4 items-center px-6 mt-8">
-                        <a href="https://github.com/THE-S-SAMI1317" target="_blank"
+                        <a href="https://github.com/THE-S-SAMI1317" target="
                             class="text-gray-400 hover:text-white hover:scale-125 transition-all duration-300"><i
                                 class="fab fa-github text-2xl"></i></a>
                         <a href="" target="_blank"
                             class="text-gray-400 hover:text-[#0A66C2] hover:scale-125 transition-all duration-300"><i
                                 class="fab fa-linkedin text-2xl"></i></a>
-                        <a href=""https://www.facebook.com/shahriar.sami.611723"_blank"
+                        <a href=""https://www.facebook.com/shahriar.sami.611723"
                             class="text-gray-400 hover:text-[#1877F2] hover:scale-125 transition-all duration-300"><i
                                 class="fab fa-facebook text-2xl"></i></a>
                     </div>
@@ -569,7 +569,7 @@
                     <span class="text-primary font-mono text-sm tracking-wider">PROJECTS</span>
                     <h2 class="text-4xl md:text-5xl font-heading font-bold dark:text-white mt-2">Selected Works</h2>
                 </div>
-                <a href="https://github.com/THE-S-SAMI1317" target="_blank"
+                <a href="https://github.com/THE-S-SAMI1317" target="
                     class="hidden md:flex items-center gap-2 text-sm font-bold border-b border-primary pb-1 hover:text-primary transition-colors">
                     View GitHub
                     <i class="fas fa-external-link-alt text-xs"></i>
